@@ -11,12 +11,12 @@ But I don’t have an android phone, so I give it a try to make an iOS version o
 Hope u guys enjoy!  
 
 ## Download
-1.EFP Keyboard: https://github.com/fr006d/ease-finger-pain-keyboard/releases/download/1.0.3/1.0.3.zip  
+1.EFP Keyboard: https://github.com/fr006d/ease-finger-pain-keyboard/releases/download/1.1.0/1.1.0.zip  
 2.Cydia Impactor: http://www.cydiaimpactor.com  
 Cydia Impactor allows the iPhone/iPad/iPod install EFP Keyboard **without jailbreak**(But it will need to be resigned every 7 days).  
 
 ## Requirement
-iOS 8.0 and later  
+iOS 9.0 and later  
 Windows XP/MacOS 10.6 and later  
 
 ## Prerequisite  
@@ -25,7 +25,7 @@ This application needs iTunes to communicate with the iPhone/iPad/iPod, if you a
 
 ## How to use  
 1.Connect your iPhone/iPad/iPod to PC/Mac through the lightning cable.  
-2.Unzip the EFP Keyboard "1.0.3.zip".  
+2.Unzip the EFP Keyboard "1.1.0.zip".  
 3.Inside the folder, there is a file call "ease_finger_pain_keyboard.ipa".  
 4.Open the Cydia Impactor and drag "ease_finger_pain_keyboard.ipa" into it.  
 5.Enter your appleID and password(You could create a new appleID if you are worried about it).  
@@ -44,6 +44,11 @@ This application needs iTunes to communicate with the iPhone/iPad/iPod, if you a
 5.You could now ZX with your iPhone/iPad/iPod with the latest version of EFP Keyboard!  
 
 ### Changelog
+**1.1.0** released on Jan 3, 2019  
+• Add "Mute" button.  
+• The position of game button could be adjusted by changing settings "Horizontal Constraint" and "Vertical Constraint".  
+• Game button could be enlarged by changing settings "Button Size" to "Fill".  
+
 **1.0.3** released on Sep 22, 2017  
 • Improve several things.  
 
