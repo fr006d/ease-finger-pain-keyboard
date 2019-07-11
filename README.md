@@ -55,6 +55,11 @@ This application needs iTunes to communicate with the iPhone/iPad/iPod, if you a
 7.You could now ZX with your iPhone/iPad/iPod!  
 
 ### Changelog
+**2.0.0** released on Jul 12, 2019  
+• Add a dark theme.  
+• Add a "Load Balance" option, which required user to swap zxing. (Otherwise, the input will not send, hopefully avoid being too tense on one finger)  
+• Can add more zx keys, might may be probably able to spread the load to other fingers.  
+
 **1.2.0** released on Jan 20, 2019  
 • Update PC/Mac client to become a tray icon instead of a console.  
 • Add wifi connection. (Only work on Windows, doesn't work on MacOS for reason that idk)  
