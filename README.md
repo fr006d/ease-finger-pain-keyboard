@@ -55,6 +55,10 @@ This application needs iTunes to communicate with the iPhone/iPad/iPod, if you a
 7.You could now ZX with your iPhone/iPad/iPod!  
 
 ### Changelog
+**2.0.1** released on Aug 29, 2019  
+• Enhance stability.  
+• Add "Restart AMDS"(Apple Mobile Device Service) in client, use it if wifi connection not work.  
+
 **2.0.0** released on Jul 12, 2019  
 • Add a dark theme.  
 • Add a "Load Balance" option, which required user to swap zxing. (Otherwise, the input will not send, hopefully avoid being too tense on one finger)  
