@@ -11,7 +11,7 @@ But I don’t have an android phone, so I give it a try to make an iOS version o
 Hope u guys enjoy!  
 
 ## Download
-1.EFP Keyboard: https://github.com/fr006d/ease-finger-pain-keyboard/releases/download/1.2.0/1.2.0.zip  
+1.EFP Keyboard: https://github.com/fr006d/ease-finger-pain-keyboard/releases/download/2.0.1/2.0.1.zip  
 2.Cydia Impactor: http://www.cydiaimpactor.com  
 Cydia Impactor allows the iPhone/iPad/iPod install EFP Keyboard **without jailbreak**(But it will need to be resigned every 7 days).  
 
