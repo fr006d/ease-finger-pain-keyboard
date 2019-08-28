@@ -25,7 +25,7 @@ This application needs iTunes to communicate with the iPhone/iPad/iPod, if you a
 
 ## How to use  
 1.Connect your iPhone/iPad/iPod to PC/Mac through the lightning cable, trust this computer on your iPhone/iPad/iPod.  
-2.Unzip the EFP Keyboard "1.2.0.zip".  
+2.Unzip the EFP Keyboard "2.0.1.zip".  
 3.Inside the folder, there is a file call "EFP Keyboard.ipa".  
 4.Open the Cydia Impactor and drag "EFP Keyboard.ipa" into it.  
 5.Enter your appleID and password. (You could create a new appleID if you are worried about it)  
@@ -34,7 +34,7 @@ This application needs iTunes to communicate with the iPhone/iPad/iPod, if you a
 8.Open EFP Keyboard on your Home Screen.  
 9.On your PC/Mac, open "EFP Keyboard.exe"/"EFP Keyboard.app".  
 10.It will create a tray icon in your taskbar, Right-Click/Left-Click on it, it will popup a menu.  
-11.It will show "Trying To Connect iPhone/iPad/iPod or your device name (some udid) Via Usb...".  
+11.It will show "Polling iPhone/iPad/iPod or your device name (some udid) Via Usb...".  
 12.After successfully connected, it will show "Connected To iPhone/iPad/iPod or your device name (some udid) Via Usb!".  
 13.You could now ZX with your iPhone/iPad/iPod!  
 
@@ -46,18 +46,19 @@ This application needs iTunes to communicate with the iPhone/iPad/iPod, if you a
 5.You could now ZX with your iPhone/iPad/iPod with the latest version of EFP Keyboard!  
 
 ## How to use wifi connection (experimental)  
-1.Connect your iPhone/iPad/iPod to PC/Mac through the lightning cable, trust this computer on your iPhone/iPad/iPod.  
+1.Connect your iPhone/iPad/iPod to PC through the lightning cable, trust this computer on your iPhone/iPad/iPod.  
 2.Open the popup menu from EFP Keyboard tray icon.  
 3.Tick the iPhone/iPad/iPod that plugin.  
 4.Pull out the cable.  
-5.Open the popup menu, it will show "Trying To Connect iPhone/iPad/iPod or your device name (some udid) Via Wifi...".  
+5.Open the popup menu, it will show "Polling iPhone/iPad/iPod or your device name (some udid) Via Wifi...".  
 6.If successfully connected, it will show "Connected To iPhone/iPad/iPod or your device name (some udid) Via Wifi!".  
+6b.Try to restart AMDS (Apple Mobile Device Service) if wifi connection didn't work.  
 7.You could now ZX with your iPhone/iPad/iPod!  
 
 ### Changelog
 **2.0.1** released on Aug 29, 2019  
 • Enhance stability.  
-• Add "Restart AMDS"(Apple Mobile Device Service) in client, use it if wifi connection not work.  
+• Add "Restart AMDS"(Apple Mobile Device Service) in client, use it if wifi connection not work. (Windows only)  
 
 **2.0.0** released on Jul 12, 2019  
 • Add a dark theme.  
